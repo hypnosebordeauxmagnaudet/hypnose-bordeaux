@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.hypnose-emdr-bordeaux.com/sitemap.xml
